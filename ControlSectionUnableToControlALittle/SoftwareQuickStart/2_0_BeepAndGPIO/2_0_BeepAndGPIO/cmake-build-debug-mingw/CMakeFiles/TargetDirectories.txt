@@ -1,0 +1,3 @@
+C:/Users/wxyinasilent/Desktop/GameGuide/ControlSectionUnableToControlALittle/SoftwareQuickStart/2_0_BeepAndGPIO/2_0_BeepAndGPIO/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/wxyinasilent/Desktop/GameGuide/ControlSectionUnableToControlALittle/SoftwareQuickStart/2_0_BeepAndGPIO/2_0_BeepAndGPIO/cmake-build-debug-mingw/CMakeFiles/2_0_BeepAndGPIO.elf.dir
+C:/Users/wxyinasilent/Desktop/GameGuide/ControlSectionUnableToControlALittle/SoftwareQuickStart/2_0_BeepAndGPIO/2_0_BeepAndGPIO/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
